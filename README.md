@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Filip Rak</h1>
+<h1 align="center">Hello 👋, I'm Filip Rak</h1>
 <h3 align="center">a student in Cracow</h3>
 
 - 🌱 I’m currently learning **Java**
