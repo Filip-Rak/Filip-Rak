@@ -11,6 +11,6 @@
   
   
   <div style="float:left;width=50%;">
-    <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=filip-rak&show_icons=true&locale=en&layout=compact" alt="filip-rak" /></p>
+    <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=filip-rak&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="filip-rak" /></p>
   </div>
 </div>
