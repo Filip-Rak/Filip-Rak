@@ -1,5 +1,5 @@
 <p align="center">
-  <img height = "40vh" width = "100%" src = "https://i.imgur.com/IXgKLKm.jpeg" alt="background">
+  <img height = "200vh" width = "100%" src = "https://i.imgur.com/IXgKLKm.jpeg" alt="background">
 </p>
 
 <h1 align="center">Hello 👋, I'm Filip Rak</h1>
