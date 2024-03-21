@@ -1,4 +1,4 @@
-<img width = "100%" src = "https://i.pinimg.com/originals/ff/cb/41/ffcb41ab727135955c859e88bc286c54.gif" alt="background">
+<img width = "100%" src = "https://i.pinimg.com/originals/88/78/2d/88782d6822dfe2d7d8adf0a73b2d7664.gif" alt="background">
 
 <h1 align="center">Hello 👋, I'm Filip Rak</h1>
 <h3 align="center">Computational Engineering student at AGH UST</h3>
