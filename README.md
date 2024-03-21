@@ -1,6 +1,6 @@
 <p align="center">
-  <img width = "50%" src = "https://i.pinimg.com/originals/9e/29/a6/9e29a638fc3c22b56b30b5c583915396.gif" alt="background">
-</p>>
+  <img width = "50%" src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIFiQz2GhSWd1s84J3nUA9Mef16wgo0HMBLoNX83gS47hcwDQbZRoCrujHRN547XmGZwZ5U0aoX7eawjKujfZJ9DC3iNkROhOIOesRlQRYEbXqFopH0ZtPpRAiDQmtyEYWH7kbFLJzUh_0WujVMqVBRHSPabDlqE9nalLpP4YC1qKLZ7JGaZ71R4_e3j0K/s900-rw/3440x1440-anime-wallpaper-51.jpg" alt="background">
+</p>
 
 <h1 align="center">Hello 👋, I'm Filip Rak</h1>
 <h3 align="center">Computational Engineering student at AGH UST</h3>
