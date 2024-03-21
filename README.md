@@ -1,5 +1,8 @@
+[![MasterHead]()](https://i.pinimg.com/originals/ff/cb/41/ffcb41ab727135955c859e88bc286c54.gif)
+
 <h1 align="center">Hello 👋, I'm Filip Rak</h1>
 <h3 align="center">Computational Engineering student at AGH UST</h3>
+- 🌱 I’m currently learning **Java**
 
 <div id="wrapper">
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=filip-rak&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="filip-rak" /></p>
