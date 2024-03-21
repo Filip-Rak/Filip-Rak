@@ -1,5 +1,5 @@
 <p align="center">
-  <img height = "300vh" width = "100%" src = "https://wallpapercave.com/wp/wp10672255.jpg" alt="background">
+  <img height = "250vh" width = "100%" src = "https://wallpapercave.com/wp/wp10672255.jpg" alt="background">
 </p>
 
 <h1 align="center">Hello 👋, I'm Filip Rak</h1>
