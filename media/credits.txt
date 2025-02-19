@@ -1,2 +1,4 @@
-bg_fog - Lum3n on pexels.com
-bg_stars - Felix Mittermeier on pexels.com
+bg_fog.jpg - Lum3n on pexels.com
+bg_stars.jpg - Felix Mittermeier on pexels.com
+bg_stars2.jpg - Suzy Hazelwood on pexels.com
+bg_stars3.jpg - Felix Mittermeier on pexels.com
