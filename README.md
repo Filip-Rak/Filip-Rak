@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/bg_stars.jpg" alt="background">
+  <img src="media/bg_stars3.jpg" alt="background">
 </p>
 
 <h1 align="center">Hello 👋, I'm Filip Rak</h1>
