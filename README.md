@@ -14,16 +14,9 @@
   </ul>
 
   <h3 align="left"><strong>Skills</strong></h3>
-  <h4 align="left">Languages</h4>
   <ul>
-    <li><strong>Favorites</strong>: C/C++, Java, C#.</li>
-    <li><strong>Experienced With</strong>: Python, JavaScript, PHP, HTML, CSS, Assembly, Gdscript.</li>
-  </ul>
-
-  <h4 align="left">Libraries, Frameworks & Tools</h4>
-  <ul>
-    <li><strong>Favorites</strong>: SFML, Godot.</li>
-    <li><strong>Experienced With</strong>: JavaFX, OpenGL, Swing, Unity.</li>
+    <li><strong>Favorites</strong>: C/C++, Java, C#, SFML, Godot.</li>
+    <li><strong>Experienced With</strong>: Python, JavaScript, PHP, HTML, CSS, Assembly, Gdscript, JavaFX, OpenGL, Swing, Unity.</li>
   </ul>
   
 </div>
