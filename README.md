@@ -8,15 +8,17 @@
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=filip-rak&hide=jupyter%20notebook,html,php,css&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="filip-rak" /></p>
   <h3 align="left"><strong>About me</strong> 📚</h3>
   <ul>
-    <li>I study <strong>Computational Engineering<strong/> at <strong>AGH Univeristy of Krakow<strong/> in Poland 🇵🇱.</li>
-    <li>I have been working with code for over <strong>6 years</strong> ⏳.</li>
-    <li>Started programming in <strong>2019</strong> with <strong>C++</strong> 💻.</li>
+    <li>Pursuing a <strong>Master’s degree in Computer Science and Engineering</strong> at <strong>AGH University of Kraków</strong> in Poland 🇵🇱.</li>
+    <li>Working as a <strong>Software Engineer</strong> 💻 at <strong>Novomatic Technologies Poland</strong> 🎰.</li>
+    <li>Coding in <strong>C++</strong> since <strong>2019</strong> 🗓️.</li>
   </ul>
 
-  <h3 align="left"><strong>Skills</strong> ⚙️</h3>
+  <h3 align="left"><strong>Skills & Technologies</strong> ⚙️</h3>
   <ul>
-    <li><strong>Favorites</strong> ❤️: C/C++, Java, C#, SFML, Godot.</li>
-    <li><strong>Experienced With</strong> 🛠️: Python, JavaScript, PHP, HTML, CSS, Assembly, Gdscript, JavaFX, OpenGL, Swing, Unity.</li>
+    <li><strong>Languages and libraries</strong> 🧩: <strong>C++20</strong>, STL, SFML, Entt.</li>
+    <li><strong>Paradigms</strong> 🧠: OOP, ECS, parallel programming, concurency, basics of CI/CD.</li>
+    <li><strong>Build & tooling</strong> 🛠️: Git, CMake, clang-format/clang-tidy/clangd, vscode, IDE-based debugging.</li>
+    <li><strong>Systems</strong> 🐧: Linux, processes & threads, scheduling basics, cache locality, computer architecture & CPU fundamentals.</li>
   </ul>
   
 </div>
