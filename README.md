@@ -17,8 +17,8 @@
   <ul>
     <li><strong>Languages and libraries</strong> 🧩: <strong>C++20</strong>, STL, SFML, Entt.</li>
     <li><strong>Paradigms</strong> 🧠: OOP, ECS, parallel programming, concurency.</li>
-    <li><strong>Build & tooling</strong> 🛠️: Git, CMake, clang-format/clang-tidy/clangd, vscode, IDE-based debugging.</li>
-    <li><strong>Systems</strong> 🐧: Linux, processes & threads, scheduling basics, computer architecture & CPU fundamentals.</li>
+    <li><strong>Build & tooling</strong> 🛠️: Git, CMake, clang tools, IDE-based debugging.</li>
+    <li><strong>Systems</strong> 🐧: Linux, processes & threads, scheduling basics, computer architecture fundamentals.</li>
   </ul>
   
 </div>
