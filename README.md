@@ -10,7 +10,6 @@
   <ul>
     <li>Pursuing a <strong>Master’s degree in Computer Science in Engineering</strong> at <strong>AGH University of Kraków</strong> in Poland 🇵🇱.</li>
     <li>Working as a <strong>Software Engineer</strong> 💻 at <strong>Novomatic Technologies Poland</strong> 🎰.</li>
-    <li>Coding in <strong>C++</strong> since <strong>2019</strong> 🗓️.</li>
   </ul>
 
   <h3 align="left"><strong>Skills & Technologies</strong> ⚙️</h3>
